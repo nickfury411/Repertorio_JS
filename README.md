@@ -1,2 +1,2 @@
-# Repertorio_JS
-Aqui serão guardados projetos de JavaScript pessoais com o objetivo de criar um portfólio para demonstrar os conhecimentos adquiridos através do estudo linguagem.
+# Repository_JS
+Here will be included my personals projects in JavaScript with the objective to create a portfolio to demonstrate the knowledge acquired through the study of the language.
